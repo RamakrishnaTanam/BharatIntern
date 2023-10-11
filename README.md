@@ -88,7 +88,7 @@ Acknowledge any external libraries, tutorials, or resources used in the project.
 For further questions or inquiries, please contact:
 
 T Ramakrishna: [ramakrishna24082004@gmail.com]
-Project Repository: []
+Project Repository: [stock_prediction]
 
 
 
